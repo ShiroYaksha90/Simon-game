@@ -5,8 +5,8 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
-  margin:  5%;
+  font-size: 2rem;
+  margin:  2%;
   color: #FEF2BF;
 }
 
@@ -50,4 +50,15 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+footer {
+  color: #ff6b00;
+  width: 100%;
+    a{
+      margin: 1%;
+      color: #FEF2BF;
+      font-size: 1rem;
+      text-decoration: none;
+    }
 }
