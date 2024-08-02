@@ -39,7 +39,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Link](https://shiroyaksha90.github.io/Simon-game/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
