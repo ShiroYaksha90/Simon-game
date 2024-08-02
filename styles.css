@@ -55,10 +55,11 @@ body {
 footer {
   color: #ff6b00;
   width: 100%;
-    a{
-      margin: 1%;
-      color: #FEF2BF;
-      font-size: 1rem;
-      text-decoration: none;
-    }
+}
+
+footer > a{
+  margin: 1%;
+  color: #FEF2BF;
+  font-size: 1rem;
+  text-decoration: none;
 }
