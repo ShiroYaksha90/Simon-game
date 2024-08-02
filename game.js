@@ -16,7 +16,6 @@ $(".btn").click((e) => {
   playSound(userChosenColor);
   animatePress(userChosenColor);
   checkAnswer(userClickedPattern.length - 1);
-  console.log("userClickedPattern = ", userClickedPattern);
 });
 const checkAnswer = (currentLevel) => {
   if (gamePattern[currentLevel] === userClickedPattern[currentLevel]) {
